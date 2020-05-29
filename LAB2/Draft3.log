@@ -1,0 +1,21 @@
+Circuit: * C:\Users\Artem\Desktop\ANALOG\LAB2\Draft3.asc
+
+.OP point found by inspection.
+
+Date: Thu May 28 20:40:31 2020
+Total elapsed time: 0.045 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2377
+traniter = 2377
+tranpoints = 1069
+accept = 1067
+rejected = 2
+matrix size = 8
+fillins = 0
+solver = Normal
+Matrix Compiler1: 318 bytes object code size  0.1/0.1/[0.1]
+Matrix Compiler2: 574 bytes object code size  0.1/0.1/[0.1]
+

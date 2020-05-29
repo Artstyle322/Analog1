@@ -1,0 +1,10 @@
+* C:\Users\Artem\Desktop\ANALOG\LAB2\Draft2.asc
+V1 N001 0 SINE(0 5 50)
+D1 N001 N002 1N914
+C1 N002 0 10µ
+R1 N002 0 5k
+.model D D
+.lib C:\Users\Artem\Documents\LTspiceXVII\lib\cmp\standard.dio
+.tran 100m
+.backanno
+.end
